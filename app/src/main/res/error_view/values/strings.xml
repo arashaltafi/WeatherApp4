@@ -1,0 +1,8 @@
+<resources>
+    <string name="error_view_title">No weather found</string>
+    <string name="error_view_subtitle">Possible reasons:</string>
+    <string name="error_view_image_content_description">Error image</string>
+    <string name="error_view_point_1">- The city is unknown</string>
+    <string name="error_view_point_2">- You do not have internet</string>
+    <string name="error_view_point_3">- The server is OFF</string>
+</resources>

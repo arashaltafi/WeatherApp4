@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_activity_status_bar_light_theme_color">#FFEEF0F5</color>
+    <color name="main_activity_status_bar_dark_theme_color">#FF394253</color>
+    <color name="main_activity_navigation_bar_light_theme_color">#FFEEF0F5</color>
+    <color name="main_activity_navigation_bar_dark_theme_color">#FF181C27</color>
+</resources>
